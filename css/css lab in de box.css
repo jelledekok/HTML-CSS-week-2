@@ -3,11 +3,11 @@
 	width: 400px;
 	height: 100px;
 	padding: 60px;
-	border-size: 80px;
-	border-style: dashed;
-	border-radius: 8px;
+	border: 10px dashed ;
 	border-color: darkorange;
 	margin:10px;
 
 }
+
+  
 

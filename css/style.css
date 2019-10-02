@@ -1,0 +1,47 @@
+
+
+.recept {
+	width: 400px;
+	height: 100px;
+	padding: 6px;
+	border-size: 8px;
+	border-style: none;
+	border-radius: 8px;
+	}
+.tip {
+	width: 475px;
+	border-size:1px;
+	border-style: solid;
+	background-color: lightgray;
+}
+
+
+
+}
+h1 {
+  border-bottom: 0.5px solid blue;
+  background-color: white;
+  width: 500px;
+  padding-bottom: 15px;
+} 
+text {
+	font-family: 'Roboto', sans-serif;
+}     
+
+a{
+	text-decoration: none;
+	padding: 10px;
+	display: block;
+	width: 100px;
+	border-size:1px;
+	border-style: solid;
+	background-color: lightgray;
+}
+img.floatleft{
+	float:left;
+	width: 400px;
+	height: 400px;
+	
+
+}
+

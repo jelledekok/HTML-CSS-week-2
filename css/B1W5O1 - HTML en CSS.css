@@ -1,4 +1,5 @@
 
+
 .gehaktbrood-recept {
 	width: 400px;
 	height: 100px;
@@ -7,3 +8,8 @@
 	border-style: none;
 	border-radius: 8px;
 }
+body{
+		background-color: lightblue ; }
+        
+		img.floatleft{float:left;
+          border: 2px solid black;
